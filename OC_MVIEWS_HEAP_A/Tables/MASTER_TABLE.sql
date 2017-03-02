@@ -1,6 +1,6 @@
 CREATE TABLE oc_mviews_heap_a.master_table (
-  ID INT,
-  test NUMBER NOT NULL,
-  nottheanswer NUMBER,
-  PRIMARY KEY (ID)
+  ID2 INT,
+  test2 NUMBER NOT NULL,
+  stb NUMBER,
+  PRIMARY KEY (ID2)
 );
