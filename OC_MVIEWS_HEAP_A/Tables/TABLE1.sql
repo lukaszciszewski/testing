@@ -1,5 +1,5 @@
 CREATE TABLE oc_mviews_heap_a.table1 (
   dd VARCHAR2(20 BYTE),
   ff VARCHAR2(20 BYTE) NOT NULL,
-  cc VARCHAR2(50 BYTE)
+  cc VARCHAR2(11 BYTE)
 );
