@@ -1,5 +1,5 @@
-CREATE TABLE oc_mviews_heap_a.table1 (
-  dd VARCHAR2(20 BYTE),
-  ff VARCHAR2(20 BYTE) NOT NULL,
-  cc VARCHAR2(50 BYTE)
+CREATE TABLE oc_mviews_heap_A.table1 (
+"TEST" VARCHAR2(10 BYTE),
+column2 VARCHAR2(50 BYTE),
+"TEST1" VARCHAR2(3 BYTE)
 );
