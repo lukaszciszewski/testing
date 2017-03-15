@@ -1,6 +1,6 @@
-CREATE TABLE oc_mviews_heap_b.test (
-  answer123 NUMBER NULL,
-  nottheanswertest NUMBER,
-  testing NUMBER NOT NULL,
-  PRIMARY KEY (answer123)
+CREATE TABLE oc_mviews_heap_a.master_table (
+  amout int NOT NULL,
+  nottheanswerff INT,
+  testing INT,
+  PRIMARY KEY (amout)
 );
