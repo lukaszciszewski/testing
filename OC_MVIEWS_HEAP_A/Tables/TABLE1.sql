@@ -1,4 +1,6 @@
-CREATE TABLE oc_mviews_heap_A.table1 (
-"TEST" VARCHAR2(10 BYTE),
-column2 VARCHAR2(50 BYTE),
-"TEST1" VARCHAR2(3 BYTE)
+CREATE TABLE oc_mviews_heap_a.master_table (
+  amout int NOT NULL,
+  nottheanswerff INT,
+  testing INT,
+  PRIMARY KEY (amout)
+);
