@@ -1,0 +1,5 @@
+CREATE TABLE oc_mviews_heap_A.table12 (
+"TEST1" VARCHAR2(10 BYTE),
+column1 VARCHAR2(50 BYTE),
+"TEST2" VARCHAR2(5 BYTE)
+);
