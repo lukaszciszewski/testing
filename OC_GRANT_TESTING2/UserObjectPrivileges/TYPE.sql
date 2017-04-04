@@ -1,0 +1,1 @@
+GRANT SELECT ON oc_grant_testing."TYPE" TO oc_grant_testing2 WITH GRANT OPTION;
