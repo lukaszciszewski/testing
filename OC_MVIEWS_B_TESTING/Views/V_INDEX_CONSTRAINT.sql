@@ -1,0 +1,2 @@
+CREATE OR REPLACE FORCE VIEW oc_mviews_b_testing.v_index_constraint (col1_id,col2,col3_id) AS
+SELECT tic.col1 AS col1_id , tic.col2, tic.col3 AS col3_id FROM oc_mviews_b_testing.t_index_constraint tic;
