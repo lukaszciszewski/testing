@@ -1,0 +1,9 @@
+GRANT ALTER ON oc_grant_fix_testing2.test_table1 TO oc_grant_fix_testing;
+GRANT FLASHBACK ON oc_grant_fix_testing2.test_table1 TO oc_grant_fix_testing;
+GRANT INSERT ON oc_grant_fix_testing2.test_table1 TO oc_grant_fix_testing;
+GRANT UPDATE ON test_table1.test_table1 TO oc_grant_fix_testing;
+GRANT ALTER ON oc_grant_fix_testing.test_table1 TO oc_grant_fix_testing2;
+GRANT INSERT ON oc_grant_fix_testing.test_table1 TO oc_grant_fix_testing2;
+GRANT INSERT ON oc_grant_fix_testing.test_table1 TO oc_grant_fix_testing3;
+GRANT INSERT ON oc_grant_fix_testing.test_table1 TO test_table1;
+GRANT UPDATE ON oc_grant_fix_testing.test_table1 TO test_table1;

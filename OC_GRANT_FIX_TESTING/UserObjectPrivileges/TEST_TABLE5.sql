@@ -1,0 +1,1 @@
+GRANT INSERT ON oc_grant_fix_testing.test_table5 TO oc_grant_fix_testing2;
